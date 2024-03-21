@@ -6,3 +6,5 @@ Setup:
 i)Prerequisite:Anaconda Navigator
 ii)Install Jupyter Notebook
 iii)Run jupyter Notebook
+#OUTPUT:
+![text](https://github.com/kshreedevi82/TextEditor/assets/144706916/325d5cc1-19d2-4203-bf39-14ef3869557a)
